@@ -1,0 +1,15 @@
+# Executables (all directories; case-insensitive extensions)
+*.[eE][xX][eE]
+*.[cC][oO][mM]
+*.[oO][uU][tT]
+
+# Object files and compiler/debug intermediates
+*.[oO]
+*.[oO][bB][jJ]
+*.pdb
+*.ilk
+*.idb
+
+# Put generated output here, including executables without an extension
+/build/
+/bin/
